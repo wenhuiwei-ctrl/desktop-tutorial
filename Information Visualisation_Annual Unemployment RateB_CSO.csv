@@ -1,25 +1,26 @@
 Statistic Label,Year,Age Group,Sex,Education Attainment Level,NUTS 2 Region,UNIT,Unemployment rate (%)
-Annual unemployment rate,2019,All ages,Both sexes,Levels of Education (Levels  0-8),Ireland,%,5
-Annual unemployment rate,2019,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,%,8.8
-Annual unemployment rate,2019,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,%,6
-Annual unemployment rate,2019,All ages,Both sexes,Tertiary education (Levels 5-8),Ireland,%,3.3
-Annual unemployment rate,2020,All ages,Both sexes,Levels of Education (Levels  0-8),Ireland,%,5.9
-Annual unemployment rate,2020,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,%,8.5
-Annual unemployment rate,2020,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,%,7.2
-Annual unemployment rate,2020,All ages,Both sexes,Tertiary education (Levels 5-8),Ireland,%,4.3
-Annual unemployment rate,2021,All ages,Both sexes,Levels of Education (Levels  0-8),Ireland,%,6.4
-Annual unemployment rate,2021,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,%,10.5
-Annual unemployment rate,2021,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,%,8.1
-Annual unemployment rate,2021,All ages,Both sexes,Tertiary education (Levels 5-8),Ireland,%,4.2
-Annual unemployment rate,2022,All ages,Both sexes,Levels of Education (Levels  0-8),Ireland,%,4.5
-Annual unemployment rate,2022,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,%,8.5
-Annual unemployment rate,2022,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,%,5.1
-Annual unemployment rate,2022,All ages,Both sexes,Tertiary education (Levels 5-8),Ireland,%,3.3
-Annual unemployment rate,2023,All ages,Both sexes,Levels of Education (Levels  0-8),Ireland,%,4.3
-Annual unemployment rate,2023,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,%,7.5
-Annual unemployment rate,2023,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,%,5.5
-Annual unemployment rate,2023,All ages,Both sexes,Tertiary education (Levels 5-8),Ireland,%,2.9
-Annual unemployment rate,2024,All ages,Both sexes,Levels of Education (Levels  0-8),Ireland,%,4.5
-Annual unemployment rate,2024,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,%,9.5
-Annual unemployment rate,2024,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,%,5.3
-Annual unemployment rate,2024,All ages,Both sexes,Tertiary education (Levels 5-8),Ireland,%,3.3
+Annual unemployment rate,2019,All ages,Both sexes,Levels of Education,Ireland,%,5
+Annual unemployment rate,2019,All ages,Both sexes,Primary and lower secondary education,Ireland,%,8.8
+Annual unemployment rate,2019,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education,Ireland,%,6
+Annual unemployment rate,2019,All ages,Both sexes,Tertiary education,Ireland,%,3.3
+Annual unemployment rate,2020,All ages,Both sexes,Levels of Education,Ireland,%,5.9
+Annual unemployment rate,2020,All ages,Both sexes,Primary and lower secondary education,Ireland,%,8.5
+Annual unemployment rate,2020,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education,Ireland,%,7.2
+Annual unemployment rate,2020,All ages,Both sexes,Tertiary education,Ireland,%,4.3
+Annual unemployment rate,2021,All ages,Both sexes,Levels of Education,Ireland,%,6.4
+Annual unemployment rate,2021,All ages,Both sexes,Primary and lower secondary education,Ireland,%,10.5
+Annual unemployment rate,2021,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education,Ireland,%,8.1
+Annual unemployment rate,2021,All ages,Both sexes,Tertiary education,Ireland,%,4.2
+Annual unemployment rate,2022,All ages,Both sexes,Levels of Education,Ireland,%,4.5
+Annual unemployment rate,2022,All ages,Both sexes,Primary and lower secondary education,Ireland,%,8.5
+Annual unemployment rate,2022,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education,Ireland,%,5.1
+Annual unemployment rate,2022,All ages,Both sexes,Tertiary education,Ireland,%,3.3
+Annual unemployment rate,2023,All ages,Both sexes,Levels of Education,Ireland,%,4.3
+Annual unemployment rate,2023,All ages,Both sexes,Primary and lower secondary education,Ireland,%,7.5
+Annual unemployment rate,2023,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education,Ireland,%,5.5
+Annual unemployment rate,2023,All ages,Both sexes,Tertiary education,Ireland,%,2.9
+Annual unemployment rate,2024,All ages,Both sexes,Levels of Education,Ireland,%,4.5
+Annual unemployment rate,2024,All ages,Both sexes,Primary and lower secondary education,Ireland,%,9.5
+Annual unemployment rate,2024,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education,Ireland,%,5.3
+Annual unemployment rate,2024,All ages,Both sexes,Tertiary education,Ireland,%,3.3
+
