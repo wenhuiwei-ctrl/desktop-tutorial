@@ -1,4 +1,5 @@
-Statistic Label,Age Group,Sex,Education Attainment Level,NUTS 2 Region,UNIT,VALUE
+Statistic Label,Age Group,Sex,Education Attainment Level,NUTS 2 Region,UNIT,Unemployment rate (%)
 Annual unemployment rate,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,%,10.28333333
 Annual unemployment rate,All ages,Both sexes,Primary and lower secondary education (Levels 1-3),Northern and Western,%,6.55
 Annual unemployment rate,All ages,Both sexes,Primary and lower secondary education (Levels 1-4),Southern,%,9.65
+
